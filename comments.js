@@ -1,5 +1,4 @@
 $(document).ready(function(){
-  var display = 0;
 
   $(".plus").hover(function() {
     $(this).children("img").attr("src","images/icon-plus-blue.svg");
